@@ -1,0 +1,19 @@
+{
+  "schema_version": "1.2",
+  "packages": [
+    {
+      "name": "Speak Selected Text",
+      "description": "A plugin to use the Mac's text to speech from Sublime Text 2.",
+      "author": "Scott Martin",
+      "homepage": "https://github.com/scottmartin/speak-selected-text-sublime",
+      "last_modified": "2013-02-29 18:52:23",
+      "platforms": {
+        "osx": [
+          {
+            "url": "https://nodeload.github.com/scottmartin/speak-selected-text-sublime/zip/master"
+          }
+        ]
+      }
+    }
+  ]
+}
