@@ -19,6 +19,6 @@ From within Sublime Text 2 you can use the plugin on of 3 ways.
 
 1. Right click your selection and choose "Speak Selected Text" from the context menu.
 2. Use the command palette and search for "Speak Selected Text".
-3. Set a keyboard shortcut to the "speak_selected_text" command.
+3. Create a Sublime Text key-binding mapped to the "speak_selected_text" command (note that the key-binding cannot be the same as the OS shortcut, or the OS shortcut will override it).
 
 **Note:** You can run the command again to stop the speech at any time.
